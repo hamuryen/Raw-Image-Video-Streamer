@@ -1,3 +1,10 @@
+/*
+* File:   MemImage.cpp
+* Author: Burak Hamuryen
+*
+* Created on 07.05.2019
+*/
+
 #include "MemImage.h"
 
 Streamer::MemImage::MemImage(unsigned char* image, size_t size)

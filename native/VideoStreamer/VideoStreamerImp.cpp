@@ -1,3 +1,10 @@
+/*
+* File:   VideoStreamerImp.cpp
+* Author: Burak Hamuryen
+*
+* Created on 07.05.2019
+*/
+
 #include "VideoStreamerImp.h"
 
 Streamer::VideoStreamerImp::VideoStreamerImp(unsigned short port, size_t width, size_t height, size_t fps)

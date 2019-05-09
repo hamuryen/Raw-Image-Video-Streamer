@@ -1,3 +1,10 @@
+/*
+* File:   Definition.h
+* Author: Burak Hamuryen
+*
+* Created on 07.05.2019
+*/
+
 #ifndef DEFINITION_H
 #define DEFINITION_H
 

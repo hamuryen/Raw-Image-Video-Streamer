@@ -1,3 +1,10 @@
+/*
+* File:   VideoStreamer.cpp
+* Author: Burak Hamuryen
+*
+* Created on 07.05.2019
+*/
+
 #include "VideoStreamer.h"
 #include "VideoStreamerImp.h"
 

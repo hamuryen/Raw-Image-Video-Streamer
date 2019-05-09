@@ -1,3 +1,10 @@
+/*
+* File:   DllExportImport.h
+* Author: Burak Hamuryen
+*
+* Created on 07.05.2019
+*/
+
 #ifndef DLL_EXPORT_IMPORT_H
 #define DLL_EXPORT_IMPORT_H
 

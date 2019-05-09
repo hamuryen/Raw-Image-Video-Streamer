@@ -1,3 +1,10 @@
+/*
+* File:   MemImage.h
+* Author: Burak Hamuryen
+*
+* Created on 07.05.2019
+*/
+
 #ifndef MEM_IMAGE_H
 #define MEM_IMAGE_H
 

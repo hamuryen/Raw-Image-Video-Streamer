@@ -1,8 +1,14 @@
+/*
+* File:   VideoStreamer.h
+* Author: Burak Hamuryen
+*
+* Created on 07.05.2019
+*/
+
 #ifndef VIDEO_STREAMER_H
 #define VIDEO_STREAMER_H
 
 #include <memory>
-
 
 namespace Streamer
 {
